@@ -1,0 +1,7 @@
+EQUIPMENT MAINTENANCE HISTORY LOG: BOILER-203
+EQUIPMENT TAG: BOILER-203 (High-Pressure Utility Boiler)
+DEPARTMENT: Power & Steam Block
+HISTORY DETAILS:
+- 2025-08-10: Tube cleaning and soot blowing completed. Internal inspection showed light slag scaling on superheater tubes. Slag removed using water washing.
+- 2025-11-04: Burner nozzle replaced. Realigned fuel oil supply nozzles. Chimney gas oxygen level adjusted to 3.2% to optimize combustion efficiency.
+- 2026-01-20: ID Fan (Induced Draft Fan) coupling pins replaced due to shear wear. Refitted safety guard.

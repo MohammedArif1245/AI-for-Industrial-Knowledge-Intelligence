@@ -1,0 +1,7 @@
+EQUIPMENT MAINTENANCE HISTORY LOG: TURBINE-301
+EQUIPMENT TAG: TURBINE-301 (Steam Turbine Generator)
+DEPARTMENT: Power Generation Block
+HISTORY DETAILS:
+- 2025-10-15: Annual Overhaul. Turbine rotor balanced dynamically. Condenser tube cleaning performed to improve vacuum from 0.82 to 0.89 bar. Governor valves inspected; stem packing replaced.
+- 2026-04-18: Vibration analysis report. Vibration at bearing #2 recorded at 4.2 mm/s (Warning limit 4.5 mm/s). Recommended monitoring frequency increased to weekly. Oil sample sent for analysis.
+- 2026-05-02: Oil analysis results: Viscosity normal, copper content trace. Weekly vibration checks show steady levels (4.0 - 4.3 mm/s). No immediate action needed.

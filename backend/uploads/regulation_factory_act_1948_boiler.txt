@@ -1,0 +1,8 @@
+FACTORY ACT 1948 - SECTION 31: SAFETY OF PRESSURE PLANT AND BOILERS
+1. Every steam boiler or other vessel used for generating steam under pressure greater than atmospheric pressure shall be:
+   (a) provided with a safety valve, pressure gauge, and water level indicator.
+   (b) maintained in a safe condition and operated by qualified engineers.
+2. STATUTORY INSPECTION FREQUENCY: Every steam boiler shall be thoroughly examined by a certified inspector at least once in every period of twelve (12) months. 
+3. No steam boiler shall be operated or kept in use unless it has been certified by the State Inspector of Boilers within the preceding 12 months.
+4. Any operation of a steam boiler beyond the 12-month inspection certificate period is a Class-A safety violation subject to immediate shutdown and penalty.
+5. Minimum test pressure for inspection certification shall be 1.5 times the maximum allowable working pressure (MAWP).

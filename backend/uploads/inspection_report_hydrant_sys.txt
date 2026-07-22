@@ -1,0 +1,11 @@
+QUARTERLY FIRE HYDRANT SYSTEM INSPECTION LOG
+FACILITY: Main Petroleum Storage Depot, Zone-1
+DATE OF TESTING: January 10, 2026
+TESTED BY: Fire & Safety Team (Led by Officer Amit Shah)
+TEST RESULTS:
+1. Header Pressure: Main ring header pressure stabilized at 7.2 kg/cm2 with jockey pump in automatic start mode.
+2. Hydrant Valves: Checked 14 hydrant valves in Zone-1. All valves are operational. Valve Hydrant-12 was stiff but lubricated and freed.
+3. Monitor Operation: Water monitors WM-01 and WM-02 tested. Rotation is smooth, nozzle settings functional.
+4. Fire Water Pumps: Pump FP-501 (Diesel Engine driven) started manually within 15 seconds. Pump FP-502 (Electric Motor driven) started automatically on header pressure drop.
+STATUS: Fully functional and compliant with OISD pressure standards.
+NEXT CHECK DUE: April 10, 2026.

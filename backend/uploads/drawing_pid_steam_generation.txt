@@ -1,0 +1,10 @@
+PROCESS & INSTRUMENTATION DIAGRAM (P&ID) EXCERPT: UTILITY STEAM LOOP
+DRAWING NUMBER: PID-ST-05-REV1
+SYSTEM DESCRIPTION:
+Steam generation and distribution loop connecting Utility Boiler-203 to Steam Turbine Generator Turbine-301.
+TAG DETAILS:
+- BOILER-203 superheater outlet line (12" High-Pressure Steam Line HPS-01) connects to Steam Header SH-100.
+- Safety Relief Valves SRV-203A and SRV-203B are mounted directly on the superheater outlet manifold, venting to atmosphere at 45.0 kg/cm2.
+- Feedwater enters Boiler-203 drum via 6" line BFW-03, controlled by level control valve LCV-203 (governed by 3-element drum level control loop LIC-203).
+- Steam Header SH-100 supplies Steam Turbine TURBINE-301 via 10" line HPS-TB01, which features emergency trip valve ESV-301.
+- Condensate line COND-01 (8" line) exits Turbine-301 condenser and is pumped back to the Deaerator tank DA-101 by Condensate Extraction Pump CEP-301.

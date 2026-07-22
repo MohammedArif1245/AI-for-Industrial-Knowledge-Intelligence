@@ -1,0 +1,14 @@
+STANDARD OPERATING PROCEDURE: BOILER EMERGENCY SHUTDOWN
+SOP ID: SOP-OPS-BOILER-05 | REVISION: 02 | DATE: September 30, 2024
+EQUIPMENT COVERED: BOILER-203, BOILER-204
+CRITICAL TRIGGER CONDITIONS FOR EMERGENCY SHUTDOWN:
+- Low-Low Water Level (below the bottom of the gauge glass / -150mm on DCS indicator).
+- Complete failure of feedwater supply.
+- Steam header overpressure beyond 46.0 kg/cm2 with safety valves failing to open.
+- Fuel gas leak or furnace explosion/flue fire.
+EMERGENCY SHUTDOWN ACTION PLAN:
+1. Trip the Fuel Trip Valve (FDV-203) immediately via manual push button on DCS or field panel. This cuts fuel gas/oil flow to burners.
+2. Shut down FD (Forced Draft) and ID (Induced Draft) fans to stop air flow.
+3. Close the main steam stop valve (MSSV) to isolate the boiler from the steam header.
+4. Keep the feedwater pump running (if water level is low but visible) to cool down the drum. WARNING: If drum water level is completely empty and drum is red hot, DO NOT inject cold water to avoid thermal shock and explosion. Isolate boiler and allow natural cooling.
+5. Open superheater vents to release steam pressure.

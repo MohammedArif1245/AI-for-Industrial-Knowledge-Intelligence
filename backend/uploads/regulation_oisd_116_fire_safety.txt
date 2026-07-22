@@ -1,0 +1,7 @@
+OISD-STD-116: FIRE PROTECTION FACILITIES FOR PETROLEUM DEPOTS AND TERMINALS
+CLAUSE 6.2: RUNNING AND TESTING OF FIRE WATER PUMPS AND HYDRANT SYSTEM
+1. The fire water pumps shall be test run daily for at least 10 minutes.
+2. The fire water piping network and hydrant valves shall be physically checked for leaks and operational readiness.
+3. INSPECTION FREQUENCY: The entire hydrant system, including water header pressure (minimum 7.0 kg/cm2 at the remotest point) and hydrant valve operation, shall be tested and flushed once every three (3) months (Quarterly).
+4. Water spray systems (deluge valves) in high-risk zones (tank farms, pump houses) must be tested every six (6) months (Semi-annually).
+5. All fire hoses must be pressure tested at 10.5 kg/cm2 once every twelve (12) months.

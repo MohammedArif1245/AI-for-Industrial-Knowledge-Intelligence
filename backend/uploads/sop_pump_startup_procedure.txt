@@ -1,0 +1,15 @@
+STANDARD OPERATING PROCEDURE: CENTRIFUGAL PUMP STARTUP
+SOP ID: SOP-OPS-PUMP-01 | REVISION: 03 | DATE: January 15, 2025
+EQUIPMENT COVERED: Centrifugal pumps (PUMP-101, PUMP-102, PUMP-201)
+PRE-START CHECKS:
+1. Verify oil level in the bearing housing is at the center of the sight glass.
+2. Turn the shaft manually to ensure it rotates freely without binding.
+3. Ensure the suction valve is 100% open and the discharge valve is fully closed.
+4. Prime the pump (if not flooded suction) to vent air. Open suction vent valve until fluid flows out, then close it.
+5. Open cooling water line valves to gland seal jackets (if equipped).
+STARTUP SEQUENCE:
+1. Push START button on the local control panel or DCS.
+2. Monitor discharge pressure gauge immediately. It should rise above suction pressure.
+3. Once the pump runs smoothly and discharge pressure stabilizes, SLOWLY open the discharge control valve to the desired flow rate. Do not operate pump with a closed discharge valve for more than 2 minutes.
+4. Verify motor current (Amperes) is within nameplate limits.
+5. Check for bearing heating or abnormal vibration.

@@ -1,0 +1,11 @@
+STANDARD OPERATING PROCEDURE: CONFINED SPACE ENTRY & SAFETY
+SOP ID: SOP-SAF-08 | REVISION: 04 | DATE: May 12, 2025
+1. PURPOSE: To define safety guidelines for entry into vessels, tanks, boilers, and sumps.
+2. DEFINITION: A confined space is any space not designed for continuous human occupancy with limited access/egress.
+3. MANDATORY ENTRY REQUIREMENTS:
+   (a) WORK PERMIT: A valid Cold Work / Confined Space Entry Permit must be approved by the Area Manager.
+   (b) ISOLATION: Double block and bleed or physical blanking/blinding of all process lines connected to the vessel.
+   (c) ATMOSPHERE TESTING: Test oxygen level (must be 19.5% to 23.5%), flammable gases (0% LEL), and toxic gases (CO < 25 ppm, H2S < 10 ppm) prior to entry and record on the permit.
+   (d) VENTILATION: Continuous positive air ventilation using air blowers. Oxygen bottles or pure oxygen enrichment is strictly prohibited.
+   (e) STANDBY PERSON: A standby person must be stationed at the entry manhole with a communication radio and rescue tripod.
+   (f) ILLUMINATION: Use only 24V flameproof hand lamps inside vessels.

@@ -1,0 +1,7 @@
+EQUIPMENT MAINTENANCE HISTORY LOG: PUMP-101
+EQUIPMENT TAG: PUMP-101 (Centrifugal Cooling Water Pump)
+DEPARTMENT: Utility Operations
+HISTORY DETAILS:
+- 2026-03-12: Preventive Maintenance (PM) check. Noticed increased vibration (7.5 mm/s) on the motor side bearing. Bearing replaced (SKF 6312) and coupling aligned using laser tool. Vibration reduced to 1.8 mm/s. Oil changed to Castrol Hyspin VG 68.
+- 2026-06-15: Operational report. Gland packing seal leak observed (15 drops/min). Adjusted gland follower nuts. Leak rate reduced to acceptable level (3 drops/min).
+- 2026-07-05: Bearing temperature spike (68 deg C). Greased motor bearings. Temperature stabilized at 54 deg C.

@@ -1,0 +1,11 @@
+PREVENTIVE MAINTENANCE INSPECTION - COMPRESSOR-102
+EQUIPMENT ID: COMP-102 (Instrument Air Compressor)
+DATE: June 22, 2026
+PERFORMED BY: Mechanical Maintenance Crew (Lead: John Doe)
+INSPECTION LOG:
+1. Oil level checked: Normal (Mobil Rarus 427).
+2. Discharge temperature: 84 deg C (Normal limit < 90 deg C).
+3. Belt tension and coupling alignment check: Visual alignment is satisfactory.
+4. Safety Valve Inspection: The safety relief valve (SRV-102) was found to be slightly rusted and failed to pop during manual pull-test. It was immediately dismantled, cleaned, internal spring lubricated, re-assembled, and tested. It now pops correctly at 8.5 kg/cm2.
+STATUS: Safety valve repaired. Compressor returned to service.
+RECOMMENDATION: Schedule replacement of safety valve SRV-102 spring during the next shutdown due to minor fatigue.

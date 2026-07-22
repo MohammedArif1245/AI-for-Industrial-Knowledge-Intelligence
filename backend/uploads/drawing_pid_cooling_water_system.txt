@@ -1,0 +1,12 @@
+PROCESS & INSTRUMENTATION DIAGRAM (P&ID) EXCERPT: COOLING WATER SYSTEM
+DRAWING NUMBER: PID-CW-01-REV2
+SYSTEM DESCRIPTION:
+The cooling water circuit pumps water from the main cooling tower basin to the process area heat exchangers.
+TAG DETAILS:
+- PUMP-101 (Cooling Water Pump A) takes suction from 24" line CW-S-01 via butterfly valve BV-101.
+- Pump discharge is 18" line CW-D-01, fitted with check valve CV-101 and motorized gate valve MV-101.
+- The discharge line splits to supply:
+  (a) Heat Exchanger HX-105 (Cooling water supply line 8" CW-S-HX105, governed by flow control valve FCV-105).
+  (b) Compressor Cooling jacket (line 3" CW-S-COMP, governed by globe valve GV-112).
+- Return line CW-R-01 (24" line) aggregates heated cooling water and returns it to the top of the Cooling Tower cells.
+- Bypass Line: A 6" pressure control bypass line with valve PCV-101 connects discharge header to suction header to maintain system pressure at 3.5 kg/cm2.

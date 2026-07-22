@@ -1,0 +1,13 @@
+STATUTORY STEAM BOILER INSPECTION REPORT
+EQUIPMENT ID: BOILER-203 (High-Pressure Utility Boiler)
+LOCATION: Utilities Section, Block-D
+LAST INSPECTION DATE: February 15, 2025
+INSPECTOR: Mr. R. Verma (Lead Statutory Inspector, State Boiler Directorate)
+FINDINGS:
+1. Shell and drum thickness measurements show normal wear with minimal corrosion allowance used (0.2mm out of 3.0mm allowance).
+2. Water level indicators and gauge glasses are clear and functional.
+3. Safety relief valves (SRV-203A and SRV-203B) were popped and reseated at the design pressure of 42.0 kg/cm2.
+4. Hydrostatic test was successfully performed at 63.0 kg/cm2 (1.5x MAWP) and held for 30 minutes with no visible leaks or pressure drop.
+CERTIFICATION STATUS: Certified fit for operation up to 42.0 kg/cm2 working pressure.
+CERTIFICATE VALID UNTIL: February 14, 2026.
+RECOMMENDATION: Next statutory inspection must be scheduled prior to February 14, 2026 to ensure continuous operation.
